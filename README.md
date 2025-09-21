@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kevin Diego
 
-I'm a passionate Full Stack Software Engineering student at the Technological University of Tehuacán, driven by curiosity, creativity, and a love for scalable systems. I enjoy building robust solutions—from backend APIs to mobile apps—and sharing my progress with the tech community in both English and Spanish.
+I'm a passionate Software Engineering student at the Technological University of Tehuacán, driven by curiosity, creativity, and a love for scalable systems. I enjoy building robust solutions—from backend APIs to mobile apps—and sharing my progress with the tech community in both English and Spanish.
 
 ---
 
