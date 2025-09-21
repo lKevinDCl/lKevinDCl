@@ -41,5 +41,5 @@ I enjoy creating robust solutions—from **backend APIs** to **mobile apps**—a
 
 ## 📊 My Stats  
 
-![KevinDCl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinDCl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDCl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
+![KevinDCl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lKevinDCl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lKevinDCl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
