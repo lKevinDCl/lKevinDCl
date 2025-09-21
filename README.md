@@ -42,6 +42,6 @@ Check out my latest projects and contributions below 👇
 
 ---
 
-### 📊 My Stats
+### My Stats
 
 KevinDCl's GitHub Stats
